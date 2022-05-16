@@ -25,9 +25,14 @@ For the board definition I have incorporated pins used in some of the examples, 
 * 8MB SPI Flash
 * ST7735 128 x 160 LCD Display
 
-[STM32F4 Black Pill Board Pinout](STM32F4x1_PinoutDiagram_RichardBalint.png) compliments from [WeActTC](https://github.com/WeActTC/MiniSTM32F4x1)
+The STM32F4 Black Pill Board Pinout is shown below (Compliments from [WeActTC MiniSTM32Fx1 project](https://github.com/WeActTC/MiniSTM32F4x1))
+![STM32F4 Black Pill Board Pinout](STM32F4x1_PinoutDiagram_RichardBalint.png)
 
-[Black Pill Sample Clock Configuration](./STM32F411%2096MHz%20config%20from%2025MHz%20Crystal.png)
+The Black Pill pin assignments for the STM32CubeMX file is shown below. It should suport the various test projects within minimal if any modification.
+![Black Pil MCU Pinout](./STM32F111CEU6%20WeAct%20Mini%20V31%20MCU%20Pinout.png)
+
+Black Pill Sample Clock configuration found in the IOC file.
+![Black Pill Sample Clock Configuration](./STM32F411%2096MHz%20config%20from%2025MHz%20Crystal.png)
 
 ### Hardware Reference and Documents
 
