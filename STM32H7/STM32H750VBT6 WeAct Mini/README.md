@@ -29,6 +29,7 @@ Contributions most welcome.
 
 The STM32H743VIT6 variant suports 2048KB ROM.
 
+Board photo compliments from WeActTC:
 ![Picture}](https://github.com/WeActTC/MiniSTM32H7xx/blob/master/Images/STM32H750VB_1.jpg)
 
 Setting up of the IO pins for this board is in its infancy. I have barely touched the surface and not had time to build and download a test programme. This pin assignments are very likely to change as investigations progress.
