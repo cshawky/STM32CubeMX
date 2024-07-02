@@ -19,7 +19,8 @@ This is repository is in phase Alpha 0.0.1 :)
 # Reference
 Please feel free to have a look at the reference links below that I found useful in one way or another. They are not in any priority order and may be superceded. Pleae use your favourite search engine to further fine tune a more suitable link.
 
-#TODO
+# TODO
+I have segwayed onto other projects, how time flys, but will get back to this one eventually. Happy to share, combine information if others wish to contribute. Either clone and create a pull request or raise an issue.
 
 
 
